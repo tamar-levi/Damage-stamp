@@ -1,0 +1,11 @@
+D:\פרויקט\בול פגיעה\bin\Debug\netcoreapp2.1\בול פגיעה.deps.json
+D:\פרויקט\בול פגיעה\bin\Debug\netcoreapp2.1\בול פגיעה.runtimeconfig.json
+D:\פרויקט\בול פגיעה\bin\Debug\netcoreapp2.1\בול פגיעה.runtimeconfig.dev.json
+D:\פרויקט\בול פגיעה\bin\Debug\netcoreapp2.1\בול פגיעה.dll
+D:\פרויקט\בול פגיעה\bin\Debug\netcoreapp2.1\בול פגיעה.pdb
+D:\פרויקט\בול פגיעה\obj\Debug\netcoreapp2.1\בול פגיעה.csprojAssemblyReference.cache
+D:\פרויקט\בול פגיעה\obj\Debug\netcoreapp2.1\בול פגיעה.csproj.CoreCompileInputs.cache
+D:\פרויקט\בול פגיעה\obj\Debug\netcoreapp2.1\בול פגיעה.AssemblyInfoInputs.cache
+D:\פרויקט\בול פגיעה\obj\Debug\netcoreapp2.1\בול פגיעה.AssemblyInfo.cs
+D:\פרויקט\בול פגיעה\obj\Debug\netcoreapp2.1\בול פגיעה.dll
+D:\פרויקט\בול פגיעה\obj\Debug\netcoreapp2.1\בול פגיעה.pdb
